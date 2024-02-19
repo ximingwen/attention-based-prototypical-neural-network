@@ -2,21 +2,21 @@
 
 ## base-paper:
 
-1. Interactively Providing Explanations for Transformer Language Models  
+1. << Interactively Providing Explanations for Transformer Language Models>>  
 code available at https://github.com/felifri/XAITransformer
 
-2. ProtoTEx: Explaining Model Decisions with Prototype Tensors  
+2. << ProtoTEx: Explaining Model Decisions with Prototype Tensors >>    
 code available at https://github.com/anubrata/ProtoTEx
 
-3. ProtoAttend: Attention-Based Prototypical Learning     (attention)  
+3. << ProtoAttend: Attention-Based Prototypical Learning >>     (attention)  
 code available at https://github.com/google-research/google-research/blob/master/protoattend/README.md
 
-4. Concept Bottleneck Models  
+4. << Concept Bottleneck Models >>  
 code available at https://github.com/yewsiang/ConceptBottleneck
 
-5. Interpretable-by-Design Text Classification with Iteratively Generated Concept Bottleneck   (CBM+LLM)  
+5. << Interpretable-by-Design Text Classification with Iteratively Generated Concept Bottleneck >>   (CBM+LLM)  
 
-6. Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification  (CMB+LLM)  
+6. << Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification >>   (CMB+LLM)  
 
 
 
